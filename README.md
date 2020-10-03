@@ -5,7 +5,7 @@ I want you don't waste more time like with me.
 
 
 1. npm install
-2. yarn androdi (or npx react-native run-android)
+2. yarn android (or npx react-native run-android)
 3. Enjoy sample demo to scan barcode including various barcode types. (DL is possible, PDF417, EAN, QR ...)
 
 
