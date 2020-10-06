@@ -1,7 +1,7 @@
 # react-native-barcode-scanner-Demo
 This is demo app for  @paraboly/react-native-barcode-scanner!
-When I try  @paraboly/react-native-barcode-scanner , there was some errors , so I have to waste time to solve issues,
-I want you don't waste more time like with me.
+When I try  @paraboly/react-native-barcode-scanner , there was some errors , so I had to waste a lot of time to solve issues,
+I want you don't waste  time like with me.
 
 
 1. npm install
